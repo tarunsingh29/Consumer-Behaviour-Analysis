@@ -6,7 +6,7 @@ Consumer Behavior Analysis to Drive Revenue Growth and Strategic Decision-Making
 
 This project is a **consulting-style data analytics case study** that analyzes anonymized e-commerce transaction data to understand **consumer purchasing behavior**, identify **high-value customer segments**, and translate analytical insights into **actionable business recommendations**.
 
-The project is designed and executed at a **DBA / consulting associate level**, with a strong emphasis on **business decision-making**, **structured problem solving**, and **executive communication** rather than purely technical complexity.
+The project is designed with a strong emphasis on **business decision-making**, **structured problem solving**, and **executive communication** rather than purely technical complexity.
 
 ---
 
@@ -190,7 +190,7 @@ This project demonstrates how transactional data can be transformed into **strat
 
 **Tarun Singh**
 Consumer & Business Analytics Project
-(DBA Application – Flagship Project)
+
 
 ---
 
